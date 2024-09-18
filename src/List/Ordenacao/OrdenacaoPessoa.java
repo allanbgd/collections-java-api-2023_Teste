@@ -1,11 +1,11 @@
-package ordenacao;
+package List.Ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import ordenacao.Pessoa.ComparatorPorAutura;
+import List.Ordenacao.Pessoa.ComparatorPorAutura;
 
 public class OrdenacaoPessoa {
 
